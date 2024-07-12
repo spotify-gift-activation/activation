@@ -1,0 +1,11 @@
+:root {
+  --slider-width: 100vw;
+}
+.menu .slider .slider-menu .slider-premium {
+  font-size: 30px;
+  line-height: 30px;
+}
+.menu .slider .slider-menu .slider-signin {
+  font-size: 24px;
+  line-height: 24px;
+}

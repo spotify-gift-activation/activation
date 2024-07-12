@@ -1,0 +1,16 @@
+#navbar .container,
+#footer .navigate{
+  width: 970px;
+}
+
+#footer .navigate .col-1 {
+  width: 162px;
+}
+
+#footer .navigate .col-1 li,
+#footer .navigate .col-2 li,
+#footer .navigate .col-3 li,
+#footer .navigate .col-4 li {
+  width: 132px;
+  height: 42px;
+}

@@ -1,0 +1,87 @@
+
+#bg-main .container .main-hero-container .main-hero h1 {
+  text-align: center;
+  padding: 0 1rem;
+  font-size: 48px;
+  line-height: 55.2px;
+  letter-spacing: -1.92px;
+}
+
+#bg-main .container .main-hero-container .main-hero h4 {
+  font-size: 18px;
+  padding: 0 0.5rem;
+  text-align: center;
+  line-height: 19.8px;
+}
+#navbar .container,
+#footer .navigate {
+  width: 100%;
+  max-width: 751px;
+}
+
+#footer .navigate {
+  height: 804px;
+  padding: 0;
+}
+#footer .navigate .col-1 {
+  height: 28px;
+}
+
+#footer .navigate .col-2 {
+  padding: 0 0 0 15px;
+}
+#footer .navigate .col-3 {
+  padding: 0 0 0 15px;
+  margin: 0;
+}
+
+#footer .navigate .col-2 li,
+#footer .navigate .col-3 li,
+#footer .navigate .col-4 li {
+  width: 100%;
+  max-width: 132px;
+  height: 42px;
+}
+
+#footer .navigate .col-2,
+#footer .navigate .col-3 {
+  width: 100%;
+  max-width: 371px;
+  flex: 1 0 50%;
+}
+
+#footer .navigate .col-4 {
+  flex: 1 0 100%;
+}
+
+#footer .navigate .col-5 {
+  padding: 0;
+  width: 100%;
+  max-width: 751px;
+}
+
+#footer .main-bottom-nav a,
+#footer .main-bottom-nav .bottom-nav span {
+ font-size: 10px;
+ line-height: 15px;
+}
+#footer .main-bottom-nav .country span {
+  font-size: 10px;
+}
+
+#footer .main-bottom-nav .bottom-nav ul li a{
+  text-align: left;
+  white-space: nowrap;
+  padding: 1em .5em;
+}
+#footer .main-bottom-nav .bottom-nav ul li:first-child a {
+  padding: 1em .5em 1em 0;
+}
+
+#footer .navigate .col-4 h4 {
+  margin: 50px 0 22px;
+}
+
+#footer .navigate .col-5 {
+  top: 70px;
+}
